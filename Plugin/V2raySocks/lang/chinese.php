@@ -5,7 +5,7 @@ if (!defined("WHMCS")) die("This file cannot be accessed directly");
 $_VLANG['locale'] = "zh_cn";
 
 $_VLANG['subscribe'] = "订阅";
-$_VLANG['resetToken'] = "重置口令";
+$_VLANG['resetToken'] = "重置订阅链接";
 $_VLANG['url'] = "订阅地址";
 
 //客户显示
